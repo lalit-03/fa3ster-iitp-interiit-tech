@@ -1,0 +1,124 @@
+{
+    "metrics": [
+        {
+            "p_e_ratio": "37.29",
+            "p_b_ratio": "61.37",
+            "debt_to_equity_ratio": "1.87",
+            "free_cashflow": "$7.09 billion",
+            "peg_ratio": "-45.94",
+            "working_capital_ratio": "0.87",
+            "quick_ratio": "0.83",
+            "earning_ratio": "0.24",
+            "return_on_equity": "1.6459",
+            "esg_score": "Not specified"
+        }
+    ],
+    "revenue": [
+        {
+            "revenue_source": "iPhone",
+            "revenue_value": 205489
+        },
+        {
+            "revenue_source": "Mac",
+            "revenue_value": 40177
+        },
+        {
+            "revenue_source": "iPad",
+            "revenue_value": 29292
+        },
+        {
+            "revenue_source": "Wearables, Home and Accessories",
+            "revenue_value": 41241
+        },
+        {
+            "revenue_source": "Services",
+            "revenue_value": 78129
+        }
+    ],
+    "countries": [
+        {
+            "country": "United States of America",
+            "market_percentage": "45%"
+        },
+        {
+            "country": "China",
+            "market_percentage": "18%"
+        },
+        {
+            "country": "Japan",
+            "market_percentage": "9%"
+        },
+        {
+            "country": "Germany",
+            "market_percentage": "7%"
+        },
+        {
+            "country": "United Kingdom",
+            "market_percentage": "6%"
+        }
+    ],
+    "team": [
+        {
+            "name": "Tim Cook",
+            "designation": "CEO",
+            "vision_for_company": "Focuses on innovation, user privacy, and environmental responsibility."
+        },
+        {
+            "name": "Luca Maestri",
+            "designation": "CFO",
+            "vision_for_company": "Ensures financial health and invests in growth areas."
+        },
+        {
+            "name": "Greg Joswiak",
+            "designation": "SVP of Worldwide Marketing",
+            "vision_for_company": "Enhances customer engagement and brand loyalty."
+        },
+        {
+            "name": "Eddy Cue",
+            "designation": "SVP of Services",
+            "vision_for_company": "Expands services revenue and user experience."
+        },
+        {
+            "name": "John Giannandrea",
+            "designation": "SVP of Machine Learning and AI Strategy",
+            "vision_for_company": "Integrates AI to improve product functionality and user experience."
+        }
+    ],
+    "goals": [
+        {
+            "sdg_number": "3",
+            "goal_description": "Good Health and Well-being",
+            "contribution": "Apple has initiatives to promote health and well-being through its technology solutions, such as health monitoring features on the Apple Watch that track heart rate, activity, and sleep. Additionally, the Health app encourages users to maintain a healthy lifestyle."
+        },
+        {
+            "sdg_number": "4",
+            "goal_description": "Quality Education",
+            "contribution": "Apple supports quality education through various programs and products, like Apple's Everyone Can Code and Everyone Can Create curriculums. These initiatives aim to empower educators and students with innovative tools and foster creativity and critical thinking."
+        },
+        {
+            "sdg_number": "7",
+            "goal_description": "Affordable and Clean Energy",
+            "contribution": "Apple is investing in renewable energy projects worldwide to power its operations with 100% clean energy. The company also encourages its suppliers to transition to renewable energy."
+        },
+        {
+            "sdg_number": "9",
+            "goal_description": "Industry, Innovation, and Infrastructure",
+            "contribution": "Apple prioritizes innovation and technology development, fostering industry transformation. It also invests in the infrastructure needed for growth in its technology ecosystems."
+        },
+        {
+            "sdg_number": "10",
+            "goal_description": "Reduced Inequalities",
+            "contribution": "Apple focuses on diversity and inclusion within its workforce and partners. It implements programs to support underrepresented communities and provides resources for equitable opportunities."
+        },
+        {
+            "sdg_number": "13",
+            "goal_description": "Climate Action",
+            "contribution": "As part of its commitment to climate action, Apple aims to become carbon neutral across its entire business, manufacturing supply chain, and product life cycle by 2030."
+        },
+        {
+            "sdg_number": "17",
+            "goal_description": "Partnerships for the Goals",
+            "contribution": "Apple engages in strategic partnerships with organizations and governments to advance its sustainability goals and contribute to achieving the broader SDG agenda."
+        }
+    ]
+}

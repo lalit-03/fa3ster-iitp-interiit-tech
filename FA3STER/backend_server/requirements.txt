@@ -1,0 +1,47 @@
+beautifulsoup4==4.12.0
+# beautifulsoup4==4.11.1
+certifi==2022.12.7
+eventlet==0.38.0
+fastapi==0.115.6
+Flask==2.2.5
+groq==0.13.0
+ipython==8.12.3
+# ipython==8.10.0
+jmespath==1.0.1
+scipy
+duckduckgo-search
+# jmespath==0.10.0
+langchain==0.3.9
+langchain_cohere==0.3.3
+langchain_community==0.3.9
+langchain_core==0.3.21
+langchain_google_genai==2.0.6
+langchain_groq==0.2.1
+langchain_openai==0.2.11
+langgraph==0.2.56
+markdown2==2.5.1
+matplotlib==3.7.1
+# matplotlib==3.7.0
+newsapi==0.1.1
+numexpr==2.8.4
+openai==1.57.0
+pandas==2.1.0
+# pandas==1.5.3
+pathway==0.16.0
+# Pillow==9.2.0
+# Pillow==9.4.0
+Pillow==9.2.0
+presidio_analyzer==2.2.355
+presidio_anonymizer==2.2.355
+protobuf==5.29.1
+pydantic==2.9.0
+python-dotenv==1.0.1
+python-socketio==5.11.4
+pytrends==4.9.2
+reportlab==4.2.5
+Requests==2.32.3
+streamlit==1.40.2
+typing_extensions==4.12.2
+uvicorn==0.32.1
+weasyprint==63.0
+yfinance==0.2.50

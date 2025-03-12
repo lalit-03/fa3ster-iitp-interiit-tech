@@ -1,0 +1,17 @@
+00:00:00 – 00:02:13: Explanation of the vertical autonomous layer for generating financial due diligence (FDD) reports, fetching the output as JSON, and displaying it on a dashboard, along with a sample demonstration using APPLE.  
+
+00:02:13 – 00:04:01: Overview of the pre-retrieval architecture built using pathway technology.  
+
+00:04:01 – 00:04:47: Detailed explanation of the underlying code for the pre-retrieval phase.  
+
+00:04:47 - 00:06:43: Detailed explanation of the underlying code for the pre-retrieval phase.  
+
+00:06:43 – 00:09:42: Sample query demonstration showcasing the post-retrieval agentic behavior in the 'chat mode'.  
+
+00:09:42 - 00:10:47: Executive Agent responses in Report Mode
+
+00:10:47 – 00:11:57: Explanation of the underlying code for the workflow of our post-retrieval part.
+
+00:11:57 – 00:15:13: Generation of the FDD report for APPLE and a walkthrough of its key elements.  
+
+00:15:13 – 00:16:08: Presentation of the investor dashboard, highlighting key metrics, revenue sources, market penetration, CXO vision, and Sustainable Development Goals (SDGs) covered.
